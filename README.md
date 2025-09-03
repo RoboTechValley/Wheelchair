@@ -61,24 +61,20 @@ The gesture controller and wheelchair base are integrated via Wi-Fi, while the h
 ## Repository Structure
 ```
 SmartWheelchair/
-├── gesture_controller/
-│   ├── gesture_controller.ino
-│   └── README_controller.md
-├── wheelchair_base/
-│   ├── wheelchair_base.ino
-│   └── README_wheelchair.md
-├── health_monitor/
-│   ├── health_monitor.ino
-│   └── README_health_monitor.md
-├── arduino_sensor_hub/
-│   ├── arduino_sensor_hub.ino
-│   └── README_arduino.md
-├── docs/
-│   ├── circuit_diagram.md
-│   └── pin_mapping_guide.md
+├
+│── gesture_controller.ino
+│── README_controller.md
+├
+│── wheelchair_base.ino
+│── README_wheelchair.md
+├
+│── health_monitor.ino
+│── README_health_monitor.md
+├── arduino_sensor_hub.ino
+│── README_arduino.md
+
 ├── README.md
-├── LICENSE
-└── .gitignore
+
 ```
 
 ## System Requirements
@@ -252,11 +248,9 @@ Contributions are welcome! To contribute:
    5. Push to your fork (`git push origin feature/your-feature`).
    6. Submit a pull request with a detailed description.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For support, open an issue on [GitHub](https://github.com) or email [sm.abdulhasib.bd@gmail.com](mailto:sm.abdulhasib.bd@gmail.com).
+For support, open an issue on [GitHub](https://github.com)
 
 ## Acknowledgments
 - [ESP32 Arduino Core](https://github.com/espressif/arduino_code-esp32)
@@ -267,5 +261,4 @@ For support, open an issue on [GitHub](https://github.com) or email [sm.abdulhas
 - [Adafruit MLX90614 Library](https://github.com/adafruit/Adafruit_MLX90614)
 - [SparkFun MAX301 Library](https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library)
 
-## Revision History
-- **Last Updated**: 03:35 AM +06, Saturday, June 7, 2025
+
